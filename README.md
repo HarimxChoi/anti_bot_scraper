@@ -1,7 +1,7 @@
-# 네이버 부동산 스크래퍼 🏘️
+# Anti-Bot-Scraper 🏘️
 
-네이버 부동산 플랫폼에서 매물 정보를 자동으로 수집하는 고급 웹 스크래핑 시스템입니다.
-Anti-bot 우회 기술과 갭투자 분석 기능이 포함되어 있습니다.
+부동산 플랫폼에서 매물 정보를 자동으로 수집하는 고급 웹 스크래핑 시스템입니다.
+Anti-bot 우회 기술과 갭투자 분석 기능이 포함되어 있습니다.(예시: 네이버 부동산)
 
 > **English**: Advanced web scraper for Korean real estate platform (Naver Land) with anti-bot detection and gap investment analysis. Designed for Korean property market research and investment opportunities. [English documentation →](#english-documentation)
 
@@ -14,7 +14,7 @@ Anti-bot 우회 기술과 갭투자 분석 기능이 포함되어 있습니다.
 ## 🎬 데모
 
 <div align="center">
-  <img src="demo.gif" alt="네이버 부동산 스크래퍼 실행 데모" width="800">
+  <img src="demo.gif" alt="부동산 스크래퍼 실행 데모" width="800">
 </div>
 
 ---
