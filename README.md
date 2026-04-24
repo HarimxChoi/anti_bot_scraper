@@ -685,9 +685,6 @@ For educational and research purposes only. Users must comply with:
 ### Author
 
 **Harim Choi** - AI/ML Engineer specializing in web automation and Korean market data systems
-
-- 📧 Email: 2.harim.choi@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/choi-harim-266799361](https://linkedin.com/in/choi-harim-266799361)
 - 💻 GitHub: [github.com/HarimxChoi](https://github.com/HarimxChoi)
 
 ### License
