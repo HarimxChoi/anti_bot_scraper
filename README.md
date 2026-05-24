@@ -1,5 +1,7 @@
 # Anti-Bot-Scraper 🏘️
 
+English | [한국어](./README.ko.md)
+
 Advanced web scraper for anti-bot system applied site with advanced Anti-bot bypassing bot detection. Designed for Korean property market research and investment opportunities. [English documentation →](#english-documentation)
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
